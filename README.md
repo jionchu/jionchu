@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Member of **MakeUs**, Profitable App Launch Club (2020.01 ~ 2020.04)
 - Member of **GDSC Ewha**, Google Developer Student Clubs (2019.09 ~ 2020.08)
 - React Native Developer of **DegulDegul**, Campus Delivery App (2021.01 ~ 2021.03)
+- Member of **YAPP**, Enterprise-style IT club (2021.08 ~ )
 
 ### Status
 [![fn0809](http://mazassumnida.wtf/api/v2/generate_badge?boj=fn0809)](https://solved.ac/fn0809)
