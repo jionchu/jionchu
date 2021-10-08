@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love 🎵music, 🎞️movie, and 🎲board game
 
 ### Experience
-- Member of ***E-DLSG***, Deep Learning Study Group (2019.03 ~ 2019.09)
+- Member of ***GDSC Ewha***, Google Developer Student Club (2019.09 ~ 2020.08)
 - Member of ***MakeUs***, Profitable App Launch Club (2020.01 ~ 2020.04)
-- Member of ***GDSC Ewha***, Google Developer Student Clubs (2019.09 ~ 2020.08)
 - React Native Developer of ***DegulDegul***, Campus Delivery App (2021.01 ~ 2021.03)
 - Member of ***YAPP***, Enterprise-style IT Club (2021.08 ~ )
 
