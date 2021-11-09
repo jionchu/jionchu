@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - Member of ***YAPP***, Enterprise-style IT Club (2021.08 ~ )
 
 ### Status
-[![fn0809](http://mazassumnida.wtf/api/v2/generate_badge?boj=fn0809)](https://solved.ac/fn0809)
+<!--[![fn0809](http://mazassumnida.wtf/api/v2/generate_badge?boj=fn0809)](https://solved.ac/fn0809) -->
 ![jionchu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jionchu&show_icons=true&theme=radical)
